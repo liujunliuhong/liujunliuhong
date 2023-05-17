@@ -2,7 +2,7 @@
 
 - 🔭 I’m an iOS developer in ChengDu
 - :computer: Focusing on Swift & iOS
-- 📫 How to reach me: 1035841713@qq.com
+- 📫 How to reach me: universegalaxy96@gmail.com
 - :trollface: Github is amazing, I hope to create more useful things here
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujunliuhong&hide=HTML,Python&theme=swift"/>
